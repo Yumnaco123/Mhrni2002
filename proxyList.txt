@@ -1512,9 +1512,9 @@
 103.6.207.108,8080,ID,PT Pusat Media Indonesia
 43.218.77.16,443,ID,Amazon.com, Inc.
 36.95.152.58,12137,ID,PT Telekomunikasi Indonesia
-34.253.234.62,443,IE,Amazon Data Services Ireland Limited
-40.113.60.248,2053,IE,Microsoft Corporation
-52.19.178.111,8443,IE,Amazon Data Services Ireland Limited
+34.253.234.62,443,ID,Amazon Data Services Ireland Limited
+40.113.60.248,2053,ID,Microsoft Corporation
+52.19.178.111,8443,ID,Amazon Data Services Ireland Limited
 40.113.60.248,8443,IE,Microsoft Corporation
 54.229.164.147,2053,IE,Amazon.com, Inc.
 63.32.194.15,8443,IE,Amazon Data Services Ireland Limited
